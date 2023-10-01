@@ -2,6 +2,8 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-        <content />
+        <content>
+        <Text id="1" text="Welcome my GitRepo"></Text>
+        </content>
     </Page>
 </mvc:View>
